@@ -1,5 +1,7 @@
 # AFrame-Kinectron
 [A-Frame](https://github.com/aframevr/aframe) component for [Kinectron](https://github.com/kinectron/kinectron) based on the [Three-Kinectron](https://github.com/kinectron/Three-Kinectron) plugin.
+Renders a point cloud from Kinect depth data provided by the Kinectron Server/API.
+
 
 #### Usage:
 
@@ -13,4 +15,7 @@
 
 ###### Attributes:
 
-
+| Property | Description | Default |
+| ------------- | ------------- | ------------- |
+| host  | IP/URL to Kinectron Server host  | 127.0.0.1  |
+| type | Type of depth data. Choose 'rgbd' for RGB and alpha encoded depth, and 'depth' for gray-scale. | rgbd  |
