@@ -1,0 +1,3 @@
+[submodule "kinectron"]
+	path = kinectron
+	url = https://github.com/kinectron/kinectron.git
