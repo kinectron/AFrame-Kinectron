@@ -17,5 +17,11 @@ Renders a point cloud from Kinect depth data provided by the Kinectron Server/AP
 
 | Property | Description | Default |
 | ------------- | ------------- | ------------- |
-| host  | IP/URL to Kinectron Server host  | 127.0.0.1  |
+| host  | IP/URL to Kinectron server host.  | 127.0.0.1  |
 | type | Type of depth data. Choose 'rgbd' for RGB and alpha encoded depth, and 'depth' for gray-scale. | rgbd  |
+| pointSize | scale of rendered points  | 1.0  |
+| colorOffSet | Offset of red, green, blue and alpha channel (0.-1.)  | 0 0 0 0 |
+| brightness | Brightness of texture  | 0. |
+| contrast | Contrast of texture | 1. |
+| opacity | Opacity of texture | 1. |
+| filterAmount | Amount of filtering | 0.9 |
