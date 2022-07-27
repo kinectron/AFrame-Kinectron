@@ -31,8 +31,11 @@ Renders a point cloud from Kinect depth data provided by the Kinectron Server/AP
 
 #### Credits
 
+written by Damian Dziwis @AudioGroupCologne  
+
+Based on the works of [Or Fleisher](https://github.com/juniorxsound) [Three-Kinectron](https://github.com/kinectron/Three-Kinectron) and [Depthkit.js](https://github.com/juniorxsound/DepthKit.js)
+
 Kinectron is maintained by [Lisa Jamhoury](http://lisajamhoury.com) with support from [Aarón Montoya-Moraga](https://github.com/montoyamoraga). It was originally developed by [Shawn van Every](https://github.com/vanevery) and [Lisa Jamhoury](https://github.com/lisajamhoury/) at New York University's Interactive Telecommunications Program (NYU ITP) under the xStory Experiments in Storytelling Google Research Grant, which supports experiments with emerging technology in service of new forms of storytelling.
 
 Past collaborators include [Stephanie Koltun](https://github.com/stephkoltun), [Or Fleisher](https://github.com/juniorxsound), [Tiri Kananuruk](http://xxx.tiri.xxx/), and [Dror Ayalon](https://www.drorayalon.com/).
 
-Based on the works of [Or Fleisher](https://github.com/juniorxsound) [Three-Kinectron](https://github.com/kinectron/Three-Kinectron) and [Depthkit.js](https://github.com/juniorxsound/DepthKit.js)
