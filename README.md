@@ -31,7 +31,7 @@ Renders a point cloud from Kinect depth data provided by the Kinectron Server/AP
 
 #### Credits
 
-written by Damian Dziwis @AudioGroupCologne  
+written by Damian Dziwis @github/AudioGroupCologne  
 
 Based on the works of [Or Fleisher](https://github.com/juniorxsound) [Three-Kinectron](https://github.com/kinectron/Three-Kinectron) and [Depthkit.js](https://github.com/juniorxsound/DepthKit.js)
 
