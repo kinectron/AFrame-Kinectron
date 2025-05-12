@@ -1,4 +1,7 @@
 # AFrame-Kinectron
+
+**NOTE! This repo was created with Version 0, which is now unmaintained. It has not been tested with the current Version 1.0.0**
+
 [A-Frame](https://github.com/aframevr/aframe) component for [Kinectron](https://github.com/kinectron/kinectron) based on the [Three-Kinectron](https://github.com/kinectron/Three-Kinectron) plugin.
 Renders a point cloud from Kinect depth data provided by the Kinectron Server/API.
 
